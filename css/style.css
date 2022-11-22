@@ -1,6 +1,32 @@
-body{
-    background-color: red;
+*{
+  margin: 0;
+  padding: 0;
 }
+
+header{
+  background: #1e90ff;
+  height: 70px;
+}
+
+header a{
+  text-decoration: none;
+  float: right;
+  font-weight: normal;
+  font-size: 1.1em;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Arial, Helvetica;
+  margin: 0 10px 0 10px;
+  margin-top: 20px;
+}
+
+
+a:hover{
+  color: wheat;
+  border-bottom: 2px solid #fff;
+}
+
+
+
 
 
 
