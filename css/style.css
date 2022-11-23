@@ -64,7 +64,25 @@ img{
   color: wheat;
 }
 
+/************************************ SECTION Article **********************************/ 
 
+section{
+  margin-top: 15px;
+}
+
+article{
+  padding: 10px;
+}
+
+article h2{
+  color: #0080FF;
+  margin-bottom: 10px;
+}
+
+article p{
+  color: #222;
+  
+}
 
 
 
